@@ -1,0 +1,39 @@
+baseurl = "https://allenyhf.github.io"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
+title = "Allen's Hugo Blog"
+theme = "hugo-theme-dream"
+
+# copyright = ""
+
+# googleAnalytics = ""
+
+# disqusShortname = ""
+
+enableRobotsTXT = true
+
+[params]
+  background = ""
+  backgroundImage = "/img/default.jpg"
+  linkColor = "seagreen"
+
+  author = "Allen"
+  # description = ""
+  avatar = "/img/astro.png"
+  motto = "Le vent seleve, il faut tenter de vivre"
+#"纵有疾风起，人生不言弃"
+  
+  email = "Valencia_yhf@163.com"
+  github = "https://github.com/Allenyhf"
+  # linkedin = ""
+  # codepen = ""
+  # stackoverflow = ""
+
+  siteStartYear = 2020
+
+  # favicon = "/favicon.ico"
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true 
+  dark404Button = true
