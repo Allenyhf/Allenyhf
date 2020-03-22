@@ -18,7 +18,7 @@ enableRobotsTXT = true
   linkColor = "seagreen"
 
   author = "Allen"
-  # description = ""
+  description = "hello"
   avatar = "/img/astro.png"
   motto = "Le vent seleve, il faut tenter de vivre"
 #"纵有疾风起，人生不言弃"
